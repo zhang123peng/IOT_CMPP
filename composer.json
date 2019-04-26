@@ -1,0 +1,21 @@
+{
+    "name": "billzhang/iot_cmpp",
+    "description": "中国移动（四川移动物联网业务管理平台V1.0.21） SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bill Zhang",
+            "email": "708947679@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "billzhang\\iot_cmpp\\": "src/"
+        }
+    }
+}
